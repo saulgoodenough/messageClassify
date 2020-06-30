@@ -8,4 +8,4 @@ database.py 用于处理数据，包括提取tf-idf向量和使用LSA进行数�
 
 程序的运行顺序是：先运dataBase.py, nnp_train.py, nnpClassify.py, svm_train.py,svmClassify.py以查看两种方法的训练效果和测试效果.
 
-项目地址:[LSA, SVM和多层感知机用于垃圾短信分类]()
+项目地址:[LSA, SVM和多层感知机用于垃圾短信分类](https://github.com/Codsir/messageClassify)
